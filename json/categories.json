@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Urdu",
+      "image": "img/pic-18.png"
+    },
+    {
+      "name": "English",
+      "image": "img/pic-19.png"
+    },
+    {
+      "name": "Fantasy",
+      "image": "img/pic-20.png"
+    },
+    {
+      "name": "Historical fiction",
+      "image": "img/pic-21.png"
+    },
+    {
+      "name": "Drama",
+      "image": "img/pic-22.png"
+    },
+    {
+      "name": "Motivational",
+      "image": "img/pic-23.png"
+    },
+    {
+      "name": "Travel",
+      "image": "img/pic-24.png"
+    },
+    {
+      "name": "Religion",
+      "image": "img/pic-25.png"
+    },
+    {
+      "name": "Philosophy",
+      "image": "img/pic-26.png"
+    },
+    {
+      "name": "Poetry",
+      "image": "img/pic-27.png"
+    },
+    {
+      "name": "Humor/Comedy",
+      "image": "img/pic-28.png"
+    },
+    {
+      "name": "Romantic",
+      "image": "img/pic--29.png"
+    },
+    {
+      "name": "Emotional",
+      "image": "img/pic-30.png"
+    },
+    {
+      "name": "Horror",
+      "image": "img/pic-31.png"
+    }
+  ]
+}
